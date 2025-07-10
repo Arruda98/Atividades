@@ -1,0 +1,14 @@
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1 - IFPE.exe
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1 - IFPE.deps.json
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1 - IFPE.runtimeconfig.json
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1 - IFPE.dll
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1 - IFPE.pdb
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1 - IFPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1 - IFPE.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1 - IFPE.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1 - IFPE.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1 - IFPE.dll
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\refint\Atividade 1 - IFPE.dll
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1 - IFPE.pdb
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1 - IFPE.genruntimeconfig.cache
+C:\Users\Jefferson\source\repos\Atividades PY para C#\Atividade 1\Atividade 1\obj\Debug\net8.0\ref\Atividade 1 - IFPE.dll
